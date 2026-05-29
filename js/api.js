@@ -3,7 +3,7 @@
  * Base URL points to the Spring Boot backend.
  */
 
-const BASE_URL = 'http://localhost:8080';
+const BASE_URL = 'https://collegefixitdb-backend.onrender.com';
 
 const API = {
 
